@@ -24,4 +24,4 @@ export function CodeView({ code, template }: { code: string, template: SandboxTe
       }}
     />
   )
-}s
+}
